@@ -1,0 +1,6 @@
+Flask
+connexion[swagger-ui]
+Flask-SQLAlchemy
+python-dotenv
+flask-migrate
+psycopg2
